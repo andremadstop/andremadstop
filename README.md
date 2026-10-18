@@ -8,7 +8,6 @@ Photographer in Potsdam since 2012: architecture, panorama, 360°, reportage. Fo
 | **siteBits** | Laser scans and drone captures in the browser: point clouds, panoramas, oriented photos, measurements. Self-hosted. EUPL-1.2. First public release coming. | [github.com/sitebits](https://github.com/sitebits) |
 | **PanoLevel** | Finds vertical lines in 360° panoramas and writes them into the PTGui project as control points. | [GitHub](https://github.com/andremadstop/panolevel) |
 | **PanoLapse 360** | Timelapses from 360° image sequences on Linux, brightness jumps evened out. | [GitHub](https://github.com/andremadstop/panolapse) |
-| **amtfüller** | Fills fillable German government PDF forms from the command line, locally. | [GitHub](https://github.com/andremadstop/amtfueller) |
 
 ## How the code is made
 
